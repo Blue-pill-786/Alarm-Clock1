@@ -1,8 +1,7 @@
 body{
    
-    background-image
-    : url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Ftwo-clocks-wooden-table-41229195.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Ftwo-clocks.html&tbnid=r8APDR_cxOx6_M&vet=12ahUKEwjLs7rtwbH9AhX_0qACHUwhAyUQMyguegUIARD5AQ..i&docid=8pGpyjaBB8xrFM&w=800&h=533&itg=1&q=alarm%20clock%20background&hl=en&ved=2ahUKEwjLs7rtwbH9AhX_0qACHUwhAyUQMyguegUIARD5AQ);
-    margin: auto;
+    background-image : url(/images/background.jpg);
+       margin: auto;
   width: 70%;
   /* border: 3px solid green; */
   padding: 10px;
